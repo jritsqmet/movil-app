@@ -4,7 +4,9 @@ import React from 'react'
 export default function Grupo3Screen() {
   return (
     <View>
-      <Text>Grupo3Screen</Text>
+      <Text>Patricio</Text>
+      <Text>Jacobo</Text>
+      <Text>Fernando</Text>
     </View>
   )
 }
