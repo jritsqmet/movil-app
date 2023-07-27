@@ -9,6 +9,7 @@ export default function Grupo1Screen() {
       <Text>Najieb Armijos</Text>
       <Text>Mariana Defaz</Text>
       <Text>Sebastian Guzman</Text>
+    <Text>Sebastian Guzman</Text>
 
     </View>
   )
