@@ -8,7 +8,11 @@ export default function Grupo2Screen() {
       <Text>Christian Hidalgo</Text>
       <Text>Wladimir Tierra</Text>
       <Text>Jorge Urgilés</Text>
-      <Text>Juan Paz</Text>
+
+
+      <Text>Desarrollo de software</Text>
+
+
       
     </View>
   )
@@ -17,8 +21,10 @@ export default function Grupo2Screen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+
     backgroundColor: '#f2ff',
     alignItems: 'center',
     justifyContent: 'center',
   },
 });
+
