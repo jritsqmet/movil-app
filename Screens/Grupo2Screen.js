@@ -3,12 +3,15 @@ import React from 'react'
 
 export default function Grupo2Screen() {
   return (
-    <View>
+    <View style={styles.container}>
       <Text>GRUPO 2</Text>
       <Text>Christian Hidalgo</Text>
       <Text>Wladimir Tierra</Text>
       <Text>Jorge Urgilés</Text>
+
+
       <Text>Desarrollo de software</Text>
+
 
       
     </View>
@@ -18,8 +21,10 @@ export default function Grupo2Screen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'red',
+
+    backgroundColor: '#f2ff',
     alignItems: 'center',
     justifyContent: 'center',
   },
 });
+
