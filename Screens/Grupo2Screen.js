@@ -8,7 +8,6 @@ export default function Grupo2Screen() {
       <Text>Christian Hidalgo</Text>
       <Text>Wladimir Tierra</Text>
       <Text>Jorge Urgilés</Text>
-      
     </View>
   )
 }
