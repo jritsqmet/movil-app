@@ -4,7 +4,11 @@ import React from 'react'
 export default function Grupo2Screen() {
   return (
     <View>
-      <Text>Grupo2Screen</Text>
+      <Text>GRUPO 2</Text>
+      <Text>Christian Hidalgo</Text>
+      <Text>Wladimir Tierra</Text>
+      <Text>Jorge Urgilés</Text>
+      
     </View>
   )
 }
