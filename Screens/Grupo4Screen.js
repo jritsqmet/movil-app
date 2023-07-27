@@ -5,6 +5,8 @@ export default function Grupo4Screen() {
   return (
     <View>
       <Text>Grupo4Screen</Text>
+      <Text>Grupo4Screen</Text>
+      <Text>Grupo4Screen</Text>
     </View>
   )
 }
