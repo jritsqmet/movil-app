@@ -48,6 +48,9 @@ export default function Grupo3Screen() {
       */
 
       //const found = array1.find((element) => element > 10);
+  
+      listaUsuarios.users.find( (user) => user >=0 )
+
       if( listaUsuarios.users.find( (user) => user >=0 ) ){
         if( pass == user[user].password ){
           Alert.alert( "MENSAJE", 'Acceso correcto' )
