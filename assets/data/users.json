@@ -1,0 +1,65 @@
+{
+    "users": [
+      {
+        "username": "user001",
+        "password": "Pr0t3ct3d!"
+      },
+      {
+        "username": "user002",
+        "password": "S@f3P@ssword"
+      },
+      {
+        "username": "user003",
+        "password": "S3cur3Log!n"
+      },
+      {
+        "username": "user004",
+        "password": "Easy2R3m3mb3r"
+      },
+      {
+        "username": "user005",
+        "password": "P@ssw0rd2023"
+      },
+      {
+        "username": "user006",
+        "password": "Hello123!"
+      },
+      {
+        "username": "user007",
+        "password": "Str0ngPass"
+      },
+      {
+        "username": "user008",
+        "password": "Simpl3Log!n"
+      },
+      {
+        "username": "user009",
+        "password": "P@ssw0rd123"
+      },
+      {
+        "username": "user010",
+        "password": "12345Abc!"
+      },
+      {
+        "username": "user011",
+        "password": "L3tMe1n!"
+      },
+      {
+        "username": "user012",
+        "password": "W3lcom3@"
+      },
+      {
+        "username": "user013",
+        "password": "Secure123!"
+      },
+      {
+        "username": "user014",
+        "password": "P@ssw0rd2022"
+      },
+      {
+        "username": "user015",
+        "password": "S@f3P@ssw0rd"
+      }
+    ]
+  }
+  
