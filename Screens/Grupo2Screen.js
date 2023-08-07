@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 import { useState } from 'react';
 import { View, Text, StyleSheet, TextInput, Button, FlatList, Alert } from 'react-native'
 
 import Tarjeta from '../components/Tarjeta';
-=======
-import { View, Text, StyleSheet } from 'react-native'
-import React from 'react'
->>>>>>> master
 
 export default function Grupo2Screen() {
   const [nombre, setnombre] = useState("");
