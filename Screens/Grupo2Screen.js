@@ -1,12 +1,9 @@
-<<<<<<< HEAD
+
 import { useState } from 'react';
 import { View, Text, StyleSheet, TextInput, Button, FlatList, Alert } from 'react-native'
 
 import Tarjeta from '../components/Tarjeta';
-=======
-import { View, Text, StyleSheet } from 'react-native'
-import React from 'react'
->>>>>>> master
+
 
 export default function Grupo2Screen() {
   const [nombre, setnombre] = useState("");
@@ -53,6 +50,7 @@ export default function Grupo2Screen() {
  
   return (
     <View style={styles.container}>
+
       <Text style={{ fontSize: 35 }}>EJERCICIO 2</Text>
       <TextInput
         placeholder='Ingrese nombre'
@@ -97,6 +95,7 @@ export default function Grupo2Screen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
@@ -116,3 +115,4 @@ const styles = StyleSheet.create({
   }
 
 });
+
