@@ -67,6 +67,7 @@ export default function Grupo3Screen() {
 
 
   return (
+
     <View style= {styles.container}>
       <Text style={{fontSize: 35}}>EJERCICIO 3</Text>
       <TextInput 
@@ -82,6 +83,7 @@ export default function Grupo3Screen() {
       />
 
       <Button title='LogIn' onPress={()=> verificarUsuario( usuario, contrasenia  )}/>
+
 
     </View>
   )
